@@ -1,0 +1,28 @@
+C:\Users\Bruchnicki\source\repos\Sortieralgorithmen\Sortieralgorithmen\bin\Debug\netcoreapp3.1\Sortieralgorithmen.exe
+C:\Users\Bruchnicki\source\repos\Sortieralgorithmen\Sortieralgorithmen\bin\Debug\netcoreapp3.1\Sortieralgorithmen.deps.json
+C:\Users\Bruchnicki\source\repos\Sortieralgorithmen\Sortieralgorithmen\bin\Debug\netcoreapp3.1\Sortieralgorithmen.runtimeconfig.json
+C:\Users\Bruchnicki\source\repos\Sortieralgorithmen\Sortieralgorithmen\bin\Debug\netcoreapp3.1\Sortieralgorithmen.runtimeconfig.dev.json
+C:\Users\Bruchnicki\source\repos\Sortieralgorithmen\Sortieralgorithmen\bin\Debug\netcoreapp3.1\Sortieralgorithmen.dll
+C:\Users\Bruchnicki\source\repos\Sortieralgorithmen\Sortieralgorithmen\bin\Debug\netcoreapp3.1\Sortieralgorithmen.pdb
+C:\Users\Bruchnicki\source\repos\Sortieralgorithmen\Sortieralgorithmen\obj\Debug\netcoreapp3.1\Sortieralgorithmen.csproj.AssemblyReference.cache
+C:\Users\Bruchnicki\source\repos\Sortieralgorithmen\Sortieralgorithmen\obj\Debug\netcoreapp3.1\Sortieralgorithmen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruchnicki\source\repos\Sortieralgorithmen\Sortieralgorithmen\obj\Debug\netcoreapp3.1\Sortieralgorithmen.AssemblyInfoInputs.cache
+C:\Users\Bruchnicki\source\repos\Sortieralgorithmen\Sortieralgorithmen\obj\Debug\netcoreapp3.1\Sortieralgorithmen.AssemblyInfo.cs
+C:\Users\Bruchnicki\source\repos\Sortieralgorithmen\Sortieralgorithmen\obj\Debug\netcoreapp3.1\Sortieralgorithmen.csproj.CoreCompileInputs.cache
+C:\Users\Bruchnicki\source\repos\Sortieralgorithmen\Sortieralgorithmen\obj\Debug\netcoreapp3.1\Sortieralgorithmen.dll
+C:\Users\Bruchnicki\source\repos\Sortieralgorithmen\Sortieralgorithmen\obj\Debug\netcoreapp3.1\Sortieralgorithmen.pdb
+C:\Users\Bruchnicki\source\repos\Sortieralgorithmen\Sortieralgorithmen\obj\Debug\netcoreapp3.1\Sortieralgorithmen.genruntimeconfig.cache
+C:\Users\Bruchnicki\OneDrive - HTL Krems\2AHIT\SEW\Sortieralgorithmen\Sortieralgorithmen\Sortieralgorithmen\bin\Debug\netcoreapp3.1\Sortieralgorithmen.exe
+C:\Users\Bruchnicki\OneDrive - HTL Krems\2AHIT\SEW\Sortieralgorithmen\Sortieralgorithmen\Sortieralgorithmen\bin\Debug\netcoreapp3.1\Sortieralgorithmen.deps.json
+C:\Users\Bruchnicki\OneDrive - HTL Krems\2AHIT\SEW\Sortieralgorithmen\Sortieralgorithmen\Sortieralgorithmen\bin\Debug\netcoreapp3.1\Sortieralgorithmen.runtimeconfig.json
+C:\Users\Bruchnicki\OneDrive - HTL Krems\2AHIT\SEW\Sortieralgorithmen\Sortieralgorithmen\Sortieralgorithmen\bin\Debug\netcoreapp3.1\Sortieralgorithmen.runtimeconfig.dev.json
+C:\Users\Bruchnicki\OneDrive - HTL Krems\2AHIT\SEW\Sortieralgorithmen\Sortieralgorithmen\Sortieralgorithmen\bin\Debug\netcoreapp3.1\Sortieralgorithmen.dll
+C:\Users\Bruchnicki\OneDrive - HTL Krems\2AHIT\SEW\Sortieralgorithmen\Sortieralgorithmen\Sortieralgorithmen\bin\Debug\netcoreapp3.1\Sortieralgorithmen.pdb
+C:\Users\Bruchnicki\OneDrive - HTL Krems\2AHIT\SEW\Sortieralgorithmen\Sortieralgorithmen\Sortieralgorithmen\obj\Debug\netcoreapp3.1\Sortieralgorithmen.csproj.AssemblyReference.cache
+C:\Users\Bruchnicki\OneDrive - HTL Krems\2AHIT\SEW\Sortieralgorithmen\Sortieralgorithmen\Sortieralgorithmen\obj\Debug\netcoreapp3.1\Sortieralgorithmen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruchnicki\OneDrive - HTL Krems\2AHIT\SEW\Sortieralgorithmen\Sortieralgorithmen\Sortieralgorithmen\obj\Debug\netcoreapp3.1\Sortieralgorithmen.AssemblyInfoInputs.cache
+C:\Users\Bruchnicki\OneDrive - HTL Krems\2AHIT\SEW\Sortieralgorithmen\Sortieralgorithmen\Sortieralgorithmen\obj\Debug\netcoreapp3.1\Sortieralgorithmen.AssemblyInfo.cs
+C:\Users\Bruchnicki\OneDrive - HTL Krems\2AHIT\SEW\Sortieralgorithmen\Sortieralgorithmen\Sortieralgorithmen\obj\Debug\netcoreapp3.1\Sortieralgorithmen.csproj.CoreCompileInputs.cache
+C:\Users\Bruchnicki\OneDrive - HTL Krems\2AHIT\SEW\Sortieralgorithmen\Sortieralgorithmen\Sortieralgorithmen\obj\Debug\netcoreapp3.1\Sortieralgorithmen.dll
+C:\Users\Bruchnicki\OneDrive - HTL Krems\2AHIT\SEW\Sortieralgorithmen\Sortieralgorithmen\Sortieralgorithmen\obj\Debug\netcoreapp3.1\Sortieralgorithmen.pdb
+C:\Users\Bruchnicki\OneDrive - HTL Krems\2AHIT\SEW\Sortieralgorithmen\Sortieralgorithmen\Sortieralgorithmen\obj\Debug\netcoreapp3.1\Sortieralgorithmen.genruntimeconfig.cache
